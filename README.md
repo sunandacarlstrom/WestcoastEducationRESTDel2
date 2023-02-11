@@ -1,4 +1,4 @@
-# Databas Sqlite | WestcoastEducationRESTDel1
+# Databas Sqlite | WestcoastEducationRESTDel2
 
 ## Fortsättning på ett fiktivt projekt under namnet Westcoast Education (WE).
 
